@@ -1,6 +1,6 @@
 fn main() {
 
-    println!("Fibonacci Sequence Generator ");
+    println!("Fiboacci Sequence Generator ");
     println!("Enter the numebr of terms you want to generate");
 
     let num_terms = match get_input_as_u32() {
@@ -48,3 +48,4 @@ fn generate_fibonacci(n: u32) -> Vec<u64>
     Sequence
 }
 
+// How are u ?
