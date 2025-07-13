@@ -23,3 +23,4 @@ fn main() {
         println!("{} is not a prime number ", number);
     }
 }
+
